@@ -1,0 +1,30 @@
+*{
+    font-family: 'Be Vietnam Pro', sans-serif;
+   
+}
+.body1{
+ background-color: #F3EDEF;
+}
+.profile{
+    background-color: white;
+}
+.navv{
+    border-bottom: 1px solid #727272;
+}
+.section__work{
+    border-bottom:3px solid #555454;
+    margin-bottom: 25px;
+    
+   
+}
+.footer{
+    background-color: #046953c2;
+    height: 100px;
+    text-align: center;
+    color: white;
+}
+/* .m{
+    margin-bottom: 200px;
+    background-color: white;
+    border-bottom:2px solid #555454;
+} */
